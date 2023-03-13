@@ -1,6 +1,6 @@
 # Capstone 4
 <br>
-As part of the HyperionDev Software Engineering Course, I created a programme for stock-taking purposes at a hypothetical warehouse.
+A stock0taking programme for a hypothetical warehouse created for the HyperionDev Software Engineering course.
 <br>
 
 ### Installation
