@@ -1,6 +1,6 @@
 # Capstone 4
 <br>
-A stock-taking programme for a hypothetical warehouse created for the HyperionDev Software Engineering course.
+A stock-taking programme for a hypothetical warehouse using object-oriented programming for the HyperionDev Software Engineering course.
 <br>
 
 ### Installation
